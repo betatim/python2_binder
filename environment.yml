@@ -1,0 +1,6 @@
+name: py2now
+channels:
+  - conda-forge
+dependencies:
+  - python=2.7
+  - numpy
